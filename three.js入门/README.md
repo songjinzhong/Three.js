@@ -16,3 +16,7 @@
 想一下，如果不用 Three.js，只使用 WebGL API 的话，实现这样的场景大概需要写哪些代码。
 
 ![](http://gallery.echartsjs.com/asset/get/s/data-1487148645422-Sk6DIqbKg.png)
+
+## 查看我的提交结果
+
+[Car](https://songjinzhong.github.io/Three.js/three.js%E5%85%A5%E9%97%A8/index.html)
