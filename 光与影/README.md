@@ -27,3 +27,5 @@
 实现软阴影的效果（即阴影的边缘有明暗的渐变）。
 
 ## 查看我的提交结果
+
+[光与影](https://songjinzhong.github.io/Three.js/%E5%85%89%E4%B8%8E%E5%BD%B1/index.html)
