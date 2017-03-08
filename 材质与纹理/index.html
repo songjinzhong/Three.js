@@ -24,7 +24,7 @@
       scene.add(camera);
       
       // 贴图
-      var texture = THREE.ImageUtils.loadTexture('timg.jpeg', {}, function() {
+      var texture = THREE.ImageUtils.loadTexture('../images/timg.jpeg', {}, function() {
         renderer.render(scene, camera);
       });
 
@@ -63,7 +63,7 @@
       scene.add(circles[3]);
 
       // 添加平面
-      var p_texture = THREE.ImageUtils.loadTexture('wb.png', {}, function() {
+      var p_texture = THREE.ImageUtils.loadTexture('../images/wb.png', {}, function() {
         renderer.render(scene, camera);
       });
       p_texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
