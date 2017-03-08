@@ -57,21 +57,6 @@
       }
       animate()
 
-      window.addEventListener( 'resize', onWindowResize, false );      
-
-      function onWindowResize() {
-
-        camera.aspect = window.innerWidth / window.innerHeight;
-        camera.updateProjectionMatrix();
-
-        renderer.setSize( window.innerWidth, window.innerHeight );
-
-        controls.handleResize();
-
-        render();
-
-      }
-
       var cube = new THREE.Mesh(new THREE.CubeGeometry(8, 4, 4), 
         new THREE.MeshLambertMaterial({
           color: 0xcacaca
