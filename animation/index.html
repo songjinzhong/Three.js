@@ -118,6 +118,9 @@ function drop() {
   isMoving = true;
   ballMesh.position.y = maxHeight;
   v = 0;
+  if(id == null){
+    id = requestAnimationFrame(draw);
+  }
 }
 
 init();
