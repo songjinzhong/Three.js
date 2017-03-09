@@ -28,6 +28,10 @@
       //camera.lookAt(new THREE.Vector3(0, 0, 0));
       //scene.add(camera);
 
+      //添加轴线
+      var axisLine = new THREE.AxisHelper(30);
+      scene.add(axisLine);
+
       // 相机旋转、移动代码
       var controls = new THREE.TrackballControls( camera );
 
