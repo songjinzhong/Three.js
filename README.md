@@ -9,3 +9,4 @@
   + [x] [光与影](https://github.com/songjinzhong/Three.js/tree/master/%E5%85%89%E4%B8%8E%E5%BD%B1)- 点击查看[demo](https://songjinzhong.github.io/Three.js/%E5%85%89%E4%B8%8E%E5%BD%B1/index.html)
   + [x] [材质与纹理](https://github.com/songjinzhong/Three.js/tree/master/%E6%9D%90%E8%B4%A8%E4%B8%8E%E7%BA%B9%E7%90%86)- 点击查看[demo](https://songjinzhong.github.io/Three.js/%E6%9D%90%E8%B4%A8%E4%B8%8E%E7%BA%B9%E7%90%86/index.html)
   + [x] [camera](https://github.com/songjinzhong/Three.js/tree/master/camera)- 点击查看[demo](https://songjinzhong.github.io/Three.js/camera/index.html)
+  + [x] [animation](https://github.com/songjinzhong/Three.js/tree/master/animation)- 点击查看[demo](https://songjinzhong.github.io/Three.js/animation/index.html)
