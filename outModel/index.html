@@ -12,13 +12,15 @@
 <body>
   <div>
     <p>左键旋转、中键缩放、右键平移</p>
+    <h2 id="show">外部模型正在导入中...</h2>
   </div>
   <div id="demo"></div>
   <script type="text/javascript" src="../lib/three.js"></script>
   <script type="text/javascript" src="../lib/TrackballControls.js"></script>
   <script type="text/javascript" src="../lib/OBJLoader.js"></script>
   <script type="text/javascript">
-    var mesh, renderer, scene, camera;
+    var mesh, renderer, scene, camera,
+      show = document.getElementById("show");
     function init(){
       renderer = new THREE.WebGLRenderer({
         antialias: false
@@ -97,6 +99,7 @@
         mesh = obj; //储存到全局变量中
         scene.add(obj);
         renderer.render(scene, camera);
+        show.style.display = "none";
         id = requestAnimationFrame(draw);
       });
     }
