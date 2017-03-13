@@ -12,4 +12,4 @@
 
 ## 查看我的提交结果
 
-[outModel](https://songjinzhong.github.io/Three.js/outModel/index.html)
+[coloring](https://songjinzhong.github.io/Three.js/coloring/index.html)
