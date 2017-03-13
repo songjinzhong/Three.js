@@ -11,3 +11,4 @@
   + [x] [camera](https://github.com/songjinzhong/Three.js/tree/master/camera)- 点击查看[demo](https://songjinzhong.github.io/Three.js/camera/index.html)
   + [x] [animation](https://github.com/songjinzhong/Three.js/tree/master/animation)- 点击查看[demo](https://songjinzhong.github.io/Three.js/animation/index.html)
   + [x] [outModel](https://github.com/songjinzhong/Three.js/tree/master/outModel)- 点击查看[demo](https://songjinzhong.github.io/Three.js/outModel/index.html)
+  + [x] [coloring](https://github.com/songjinzhong/Three.js/tree/master/coloring)- 点击查看[demo](https://songjinzhong.github.io/Three.js/coloring/index.html)
